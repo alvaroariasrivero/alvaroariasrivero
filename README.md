@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Álvaro, I'm a fullstack web developer to loves to share my code and learn from everyone.
+My name is Álvaro, I'm a fullstack web developer who loves to share my code and learn from everyone.
 
 ![img](https://www.codewars.com/users/alvaroariasrivero/badges/large)
 
