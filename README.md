@@ -4,9 +4,9 @@ My name is Álvaro, I'm a fullstack web developer who loves to share code and le
 
 ![img](https://www.codewars.com/users/alvaroariasrivero/badges/large)
 
-Feel free to contact me in [LinkedIn](https://www.linkedin.com/in/alvaroariasrivero/) or [Email](alvaroariasrivero92@gmail.com)
+Feel free to contact me in [LinkedIn](https://www.linkedin.com/in/alvaroariasrivero/) or [Email](mailto:alvaroariasrivero92@gmail.com)
 
-Apart of coding :computer:, I love Rock&Roll :guitar: and Science Fiction :alien:
+Apart of coding :computer:, I love Rock&Roll music :guitar: and Science Fiction stories :alien:
 
 <!--
 **alvaroariasrivero/alvaroariasrivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
