@@ -4,7 +4,7 @@ My name is Álvaro, I'm a fullstack web developer who loves to share code and le
 
 ![img](https://www.codewars.com/users/alvaroariasrivero/badges/large)
 
-Feel free to contact me in [LinkedIn](https://www.linkedin.com/in/alvaroariasrivero/)
+Feel free to contact me in [LinkedIn](https://www.linkedin.com/in/alvaroariasrivero/) or [Email](alvaroariasrivero92@gmail.com)
 
 Apart of coding :computer:, I love Rock&Roll :guitar: and Science Fiction :alien:
 
